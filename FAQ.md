@@ -66,10 +66,10 @@ See the [Recommended 2026 Layout](README.md#-recommended-2026-profile-layout) fo
 Use the [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) tool. Add this code to your README:
 
 ```html
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 ```
 
-Replace `YOUR_USERNAME` with your actual GitHub username. The stats card will show your stars, commits, PRs, issues, and contributions.
+> 📝 **Note:** Replace `torvalds` with your GitHub username. The stats card will show your stars, commits, PRs, issues, and contributions.
 
 ### How do I change the theme of my GitHub stats card?
 
@@ -89,8 +89,10 @@ Full theme list: [github-readme-stats themes](https://github.com/anuraghazra/git
 Add this to your README:
 
 ```html
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=tokyonight" alt="Top Languages"/>
 ```
+
+> 📝 **Note:** Replace `torvalds` with your GitHub username.
 
 The `layout=compact` option shows a compact bar chart. Other options: `donut`, `donut-vertical`, `pie`.
 
@@ -111,8 +113,10 @@ Common issues and fixes:
 Use [streak-stats.demolab.com](https://streak-stats.demolab.com):
 
 ```html
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=torvalds&theme=highcontrast&hide_border=true" alt="Streak Stats"/>
 ```
+
+> 📝 **Note:** Replace `torvalds` with your GitHub username.
 
 This shows your current contribution streak, longest streak, and total contributions.
 
@@ -159,8 +163,10 @@ See the [Pacman Graph Guide](docs/github-pacman-graph.md) for complete setup ins
 Use [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph):
 
 ```html
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=dracula&hide_border=true&area=true" alt="Activity Graph"/>
 ```
+
+> 📝 **Note:** Replace `torvalds` with your GitHub username.
 
 This shows your contribution activity over time as a line chart. No GitHub Actions required.
 
@@ -265,21 +271,23 @@ Use [Lanyard](https://lanyard.cnrad.dev):
 
 ### How do I add my TryHackMe badge?
 
-Add this to your README (replace with your TryHackMe username):
+Add this to your README:
 
 ```html
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/torvalds.png" alt="TryHackMe"/>
 ```
 
-The badge automatically shows your rank and points.
+> 📝 **Note:** Replace `torvalds` with your TryHackMe username. The badge automatically shows your rank and points.
 
 ### How do I add LeetCode stats?
 
 Use [LeetCard](https://leetcard.jacoblin.cool):
 
 ```html
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/torvalds?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 ```
+
+> 📝 **Note:** Replace `torvalds` with your LeetCode username.
 
 ---
 
