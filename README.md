@@ -142,6 +142,12 @@ The most popular tool for creating dynamic header and footer banners. Supports g
 📖 **Guide:** [docs/github-badges.md](docs/github-badges.md)
 
 **Waving Gradient Banner:**
+**Preview:**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+**Usage:**
+
 ```html
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 ```
@@ -160,6 +166,16 @@ The most popular tool for creating dynamic header and footer banners. Supports g
 ### GIF Banners
 
 Use high-quality animated GIFs for eye-catching headers:
+
+**Preview:**
+
+<!-- Cybersecurity Theme -->
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%">
+
+<!-- Developer Theme -->
+<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%">
+
+**Usage:**
 
 ```html
 <!-- Cybersecurity Theme -->
@@ -182,6 +198,12 @@ Use high-quality animated GIFs for eye-catching headers:
 Show how many people have viewed your GitHub profile with a visitor counter badge.
 
 🔗 **Website:** [komarev.com/ghpvc](https://komarev.com/ghpvc/)
+
+**Preview:**
+
+![Profile views](https://komarev.com/ghpvc/?username=torvalds&label=VISITORS&color=brightgreen&style=for-the-badge)
+
+**Usage:**
 
 ```markdown
 ![Profile views](https://komarev.com/ghpvc/?username=torvalds&label=VISITORS&color=brightgreen&style=for-the-badge)
@@ -206,6 +228,12 @@ Show how many people have viewed your GitHub profile with a visitor counter badg
 Add a dynamic typing effect to your profile that cycles through multiple phrases.
 
 🔗 **Website:** [readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)
+
+**Preview:**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor" />
+
+**Usage:**
 
 ```html
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor" />
@@ -273,6 +301,16 @@ A well-structured "About Me" section tells visitors who you are and what you do 
 Add clickable social badges to connect with visitors across platforms.
 
 **Badge Style (Recommended):**
+**Preview:**
+
+<a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/torvalds"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@torvalds"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+**Usage:**
+
 ```html
 <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -312,6 +350,16 @@ Display the technologies you work with using **DevIcon** — a comprehensive ico
 
 🔗 **Website:** [devicon.dev](https://devicon.dev)
 
+**Preview:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/>
+
+**Usage:**
+
 ```html
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>
@@ -338,6 +386,12 @@ React, Vue, Angular, Svelte, Next.js, Node.js, Express, Django, Flask, FastAPI, 
 🔗 **Website:** [skillicons.dev](https://skillicons.dev)
 📖 **Guide:** [docs/github-skill-icons.md](docs/github-skill-icons.md)
 
+**Preview:**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,python,aws,firebase,supabase,docker&theme=dark" alt="Tech Stack"/>
+
+**Usage:**
+
 ```html
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,python,aws,firebase,supabase,docker&theme=dark" alt="Tech Stack"/>
 ```
@@ -353,6 +407,14 @@ React, Vue, Angular, Svelte, Next.js, Node.js, Express, Django, Flask, FastAPI, 
 **Full icon list:** Visit [skillicons.dev](https://skillicons.dev) to browse all available icons.
 
 **Example with rows:**
+**Preview:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,postgres,redis,docker,aws&perline=8&theme=dark"/>
+
+**Usage:**
+
 ```html
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8&theme=dark"/>
 <br/>
@@ -387,6 +449,14 @@ Showcase the development tools and platforms you use daily.
 | Unity | `unity/unity-original.svg` |
 | Canva | `canva/canva-original.svg` |
 
+**Preview:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+
+**Usage:**
+
 ```html
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
@@ -411,6 +481,12 @@ Display your GitHub statistics including stars, commits, PRs, issues, and contri
 
 🔗 **Repository:** [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 📖 **Guide:** [docs/github-stats.md](docs/github-stats.md)
+
+**Preview:**
+
+<img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+
+**Usage:**
 
 ```html
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
@@ -448,6 +524,12 @@ Show the programming languages you use most across your repositories.
 
 🔗 **Repository:** [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
+**Preview:**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+
+**Usage:**
+
 ```html
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
 ```
@@ -483,6 +565,15 @@ Generate a full summary of your GitHub profile with multiple card types.
 
 🔗 **Website:** [github-profile-summary-cards.vercel.app](https://github-profile-summary-cards.vercel.app)
 
+**Preview:**
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torvalds&theme=2077" alt="Stats"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torvalds&theme=2077" alt="Repos Per Language"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torvalds&theme=2077" alt="Most Commit Language"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torvalds&theme=2077&utcOffset=5.5" alt="Productive Time"/>
+
+**Usage:**
+
 ```html
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=torvalds&theme=2077" alt="Stats"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torvalds&theme=2077" alt="Repos Per Language"/>
@@ -516,6 +607,12 @@ Track your daily contribution streak — one of the most popular GitHub profile 
 🔗 **Website:** [streak-stats.demolab.com](https://streak-stats.demolab.com)
 📖 **Guide:** [docs/github-streak-stats.md](docs/github-streak-stats.md)
 
+**Preview:**
+
+<img src="https://streak-stats.demolab.com/?user=torvalds&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
+
+**Usage:**
+
 ```html
 <img src="https://streak-stats.demolab.com/?user=torvalds&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
 ```
@@ -523,6 +620,12 @@ Track your daily contribution streak — one of the most popular GitHub profile 
 > 📝 **Note:** Replace `torvalds` with your GitHub username.
 
 **Alternative (Nirzak Fork):**
+**Preview:**
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=torvalds&theme=tokyonight" alt="GitHub Streak Stats"/>
+
+**Usage:**
+
 ```html
 <img src="https://nirzak-streak-stats.vercel.app/?user=torvalds&theme=tokyonight" alt="GitHub Streak Stats"/>
 ```
@@ -598,6 +701,12 @@ Display your GitHub achievements as trophies — a fun way to showcase milestone
 🔗 **Website:** [github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app)
 📖 **Guide:** [docs/github-trophies.md](docs/github-trophies.md)
 
+**Preview:**
+
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+
+**Usage:**
+
 ```html
 <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 ```
@@ -643,6 +752,12 @@ Visualize your GitHub contribution activity as a beautiful line graph.
 🔗 **Repository:** [github.com/Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 📖 **Guide:** [docs/github-activity-graph.md](docs/github-activity-graph.md)
 
+**Preview:**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+**Usage:**
+
 ```html
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 ```
@@ -680,6 +795,16 @@ Transform your GitHub contribution grid into an animated snake game.
 📖 **Guide:** [docs/github-snake-graph.md](docs/github-snake-graph.md)
 
 **Display in your README:**
+**Preview:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-snake.svg"/>
+</picture>
+
+**Usage:**
+
 ```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-snake-dark.svg"/>
@@ -705,6 +830,16 @@ Transform your GitHub contribution grid into an animated snake game.
 Turn your contribution grid into a Pacman animation — perfect for gaming enthusiasts.
 
 📖 **Guide:** [docs/github-pacman-graph.md](docs/github-pacman-graph.md)
+
+**Preview:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph.svg">
+</picture>
+
+**Usage:**
 
 ```html
 <picture>
@@ -812,6 +947,12 @@ Showcase your competitive programming stats and problem-solving progress.
 🔗 **Website:** [leetcard.jacoblin.cool](https://leetcard.jacoblin.cool)
 📖 **Guide:** [docs/github-leetcode.md](docs/github-leetcode.md)
 
+**Preview:**
+
+<img src="https://leetcard.jacoblin.cool/torvalds?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+
+**Usage:**
+
 ```html
 <img src="https://leetcard.jacoblin.cool/torvalds?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 ```
@@ -838,6 +979,12 @@ Display your TryHackMe rank and progress for cybersecurity profiles.
 
 📖 **Guide:** [docs/github-tryhackme.md](docs/github-tryhackme.md)
 
+**Preview:**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/torvalds.png" alt="TryHackMe Badge"/>
+
+**Usage:**
+
 ```html
 <img src="https://tryhackme-badges.s3.amazonaws.com/torvalds.png" alt="TryHackMe Badge"/>
 ```
@@ -861,6 +1008,14 @@ This badge automatically updates with your:
 
 Add a HackerRank badge to showcase your competitive coding skills.
 
+**Preview:**
+
+<a href="https://www.hackerrank.com/torvalds">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+**Usage:**
+
 ```html
 <a href="https://www.hackerrank.com/torvalds">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
@@ -882,6 +1037,14 @@ Add a HackerRank badge to showcase your competitive coding skills.
 Collect and display digital badges from hackathons, events, and open source contributions.
 
 🔗 **Website:** [holopin.io](https://holopin.io)
+
+**Preview:**
+
+<a href="https://holopin.io/@torvalds">
+  <img src="https://holopin.me/torvalds" alt="Holopin Badges"/>
+</a>
+
+**Usage:**
 
 ```html
 <a href="https://holopin.io/@torvalds">
@@ -916,6 +1079,20 @@ Create custom badges for anything using **Shields.io** — the industry standard
 ```
 
 **Examples:**
+**Preview:**
+
+<!-- Tech Badges -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/Open_Source-❤️-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge"/>
+
+**Usage:**
+
 ```html
 <!-- Tech Badges -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -981,6 +1158,12 @@ Add animated GIFs to make your profile dynamic and engaging.
 - 🌊 Dividers & Separators
 
 **Usage:**
+**Preview:**
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+
+**Usage:**
+
 ```html
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 ```
@@ -1181,6 +1364,12 @@ Create a new repository with the **same name as your GitHub username**. For exam
 
 Use [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by adding this to your README:
 
+**Preview:**
+
+<img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight"/>
+
+**Usage:**
+
 ```html
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight"/>
 ```
@@ -1197,6 +1386,12 @@ See the [full guide](docs/github-stats.md) for more customization options.
 <br/>
 
 Use [streak-stats.demolab.com](https://streak-stats.demolab.com) by adding this to your README:
+
+**Preview:**
+
+<img src="https://streak-stats.demolab.com/?user=torvalds&theme=highcontrast"/>
+
+**Usage:**
 
 ```html
 <img src="https://streak-stats.demolab.com/?user=torvalds&theme=highcontrast"/>
